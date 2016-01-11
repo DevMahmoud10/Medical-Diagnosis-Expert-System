@@ -1,0 +1,49 @@
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Medical Diagnosis Expert System.exe.config
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Medical Diagnosis Expert System.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Medical Diagnosis Expert System.pdb
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\sq\Medical Diagnosis Expert System.resources.dll
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Excel.dll
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Excel.pdb
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical Diagnosis Expert System.csprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical_Diagnosis_Expert_System.Form1.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical_Diagnosis_Expert_System.Form2.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical_Diagnosis_Expert_System.Properties.Resources.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical_Diagnosis_Expert_System.Form2.sq.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical Diagnosis Expert System.csproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\sq\Medical Diagnosis Expert System.resources.dll
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical Diagnosis Expert System.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical Diagnosis Expert System.pdb
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Medical Diagnosis Expert System.exe.config
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical Diagnosis Expert System.exe
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical Diagnosis Expert System.pdb
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Medical Diagnosis Expert System.exe
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Medical Diagnosis Expert System.pdb
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\sq\Medical Diagnosis Expert System.resources.dll
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Excel.dll
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Excel.pdb
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical Diagnosis Expert System.csprojResolveAssemblyReference.cache
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical_Diagnosis_Expert_System.Form1.resources
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical_Diagnosis_Expert_System.Form2.resources
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical_Diagnosis_Expert_System.Properties.Resources.resources
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical_Diagnosis_Expert_System.Form2.sq.resources
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical Diagnosis Expert System.csproj.GenerateResource.Cache
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\sq\Medical Diagnosis Expert System.resources.dll
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Medical Diagnosis Expert System.exe.config
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical Diagnosis Expert System.exe
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical Diagnosis Expert System.pdb
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Medical Diagnosis Expert System.exe
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Medical Diagnosis Expert System.pdb
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\sq\Medical Diagnosis Expert System.resources.dll
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Excel.dll
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\bin\Debug\Excel.pdb
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical Diagnosis Expert System.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical_Diagnosis_Expert_System.Form1.resources
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical_Diagnosis_Expert_System.Form2.resources
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical_Diagnosis_Expert_System.Properties.Resources.resources
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical_Diagnosis_Expert_System.Form2.sq.resources
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical Diagnosis Expert System.csproj.GenerateResource.Cache
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\sq\Medical Diagnosis Expert System.resources.dll
+C:\Users\Mahmoud\Desktop\Medical Diagnosis Expert System\Medical Diagnosis Expert System\Medical Diagnosis Expert System\obj\Debug\Medical_Diagnosis_Expert_System.Form3.resources
